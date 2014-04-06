@@ -1,3 +1,5 @@
 # APA
 
-Go in gh-pages branch or [website](http://manland.github.io/apa)
+Go on [website](http://manland.github.io/apa)
+
+Build by Jekyll !
