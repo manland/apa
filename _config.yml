@@ -3,3 +3,4 @@ name: "Clément Maneschi - APA"
 description: "Clément Maneschi - APA"
 url: http://clement.maneschi.com/
 baseurl: /apa
+markdown: kramdown
